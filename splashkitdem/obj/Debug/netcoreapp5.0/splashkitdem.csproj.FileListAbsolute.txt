@@ -1,0 +1,16 @@
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\splashkitdem.exe
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\splashkitdem.deps.json
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\splashkitdem.runtimeconfig.json
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\splashkitdem.runtimeconfig.dev.json
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\splashkitdem.dll
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\ref\splashkitdem.dll
+D:\Projects\C_sharp\splashkitdem\bin\Debug\netcoreapp5.0\splashkitdem.pdb
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.csproj.AssemblyReference.cache
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.AssemblyInfoInputs.cache
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.AssemblyInfo.cs
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.csproj.CoreCompileInputs.cache
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.dll
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\ref\splashkitdem.dll
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.pdb
+D:\Projects\C_sharp\splashkitdem\obj\Debug\netcoreapp5.0\splashkitdem.genruntimeconfig.cache

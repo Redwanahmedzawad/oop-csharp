@@ -1,0 +1,14 @@
+D:\Projects\C_sharp\Test2Resit\Test2Resit\bin\Debug\netcoreapp3.1\Test2Resit.exe
+D:\Projects\C_sharp\Test2Resit\Test2Resit\bin\Debug\netcoreapp3.1\Test2Resit.deps.json
+D:\Projects\C_sharp\Test2Resit\Test2Resit\bin\Debug\netcoreapp3.1\Test2Resit.runtimeconfig.json
+D:\Projects\C_sharp\Test2Resit\Test2Resit\bin\Debug\netcoreapp3.1\Test2Resit.runtimeconfig.dev.json
+D:\Projects\C_sharp\Test2Resit\Test2Resit\bin\Debug\netcoreapp3.1\Test2Resit.dll
+D:\Projects\C_sharp\Test2Resit\Test2Resit\bin\Debug\netcoreapp3.1\Test2Resit.pdb
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.csproj.AssemblyReference.cache
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.AssemblyInfoInputs.cache
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.AssemblyInfo.cs
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.csproj.CoreCompileInputs.cache
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.dll
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.pdb
+D:\Projects\C_sharp\Test2Resit\Test2Resit\obj\Debug\netcoreapp3.1\Test2Resit.genruntimeconfig.cache

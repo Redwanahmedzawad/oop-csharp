@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "splashkitdem/1.0.0": {
+        "runtime": {
+          "splashkitdem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "splashkitdem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

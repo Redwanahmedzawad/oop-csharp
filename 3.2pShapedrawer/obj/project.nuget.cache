@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "naZpygMbYuVdkzHzlx7pMak3Er8ZErAMUnJO/fMnlicblaTO3oswl8hzE4Q6VJHC4vt7OAoX2+vwEfXgcplKBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\C_sharp\\3.2pShapedrawer\\3.2pShapedrawer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

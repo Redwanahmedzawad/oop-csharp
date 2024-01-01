@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2Resit", "Test2Resit\Test2Resit.csproj", "{35F72021-2485-4AFE-A510-D828C22C3BC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F72021-2485-4AFE-A510-D828C22C3BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F72021-2485-4AFE-A510-D828C22C3BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F72021-2485-4AFE-A510-D828C22C3BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F72021-2485-4AFE-A510-D828C22C3BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4E7A39D-C2EF-4957-A007-EE5AAD880B9A}
+	EndGlobalSection
+EndGlobal
